@@ -1,8 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+.body{
+    background-color: black;
+}
+
+
+/* Containers */
+
+.callout-container{
+    height: 70vh;
+    width: 100%;
+    position: relative;
+
+    background-image: url("../images/hero-image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Text */
+
+.text-center{
+    text-align: center;
+}
 
 /* Nav */
 
-.nav-pills .nav-link.active{
-    background-color: red;
 
+
+#logo{
+    color: #fafafa;
+}
+
+.navbar .nav-link{
+    color: #fafafa;
+}
+
+/* Callout */
+
+.jumbotron{
     
+    background-color: rgba(256,256,256,0.2);
+    height: 60%;
+    width: 80%;
+
+    position: absolute;
+
+
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbotron-header{
+    color: #fafafa;
+    font-family: "Oswald", sans-serif;
+
+}
+
+.jumbotron-text{
+    color: #fafafa;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 400;
+}
+
+.mark{
+    color: black;
+    border-radius: 5px;
+    background-color: #f19946;
+}
+
+
+
+@media (min-width: 768px){
+    
+    .jumbotron-md{
+        height: 50%;
+        width: 50%;
+    }
 }
