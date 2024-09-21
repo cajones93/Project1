@@ -45,11 +45,11 @@
 .jumbotron{
     
     background-color: rgba(256,256,256,0.2);
-    height: 60%;
+    height: 70%;
     width: 80%;
 
     position: absolute;
-
+    text-align: center !important;
 
     display: flexbox;
     justify-content: center;
@@ -59,7 +59,7 @@
 .jumbotron-header{
     color: #fafafa;
     font-family: "Oswald", sans-serif;
-
+    margin-bottom: 5px;
 }
 
 .jumbotron-text{
@@ -74,12 +74,40 @@
     background-color: #f19946;
 }
 
+.jumbotron .buttons{
+    margin: 0 5px; 
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: bold;
+}
 
+@media (min-width: 1024px){
+    
+    
+    .jumbotron {
+        font-size: 130%;
+    }
+    
+    .jumbotron-header{
+        font-size: 200%;
+    }
+}
 
 @media (min-width: 768px){
     
     .jumbotron-md{
-        height: 50%;
+        height: 60%;
         width: 50%;
+    }
+    
+    .jumbotron .buttons{
+        font-size: 120%;
+    }
+}
+
+
+@media (max-width: 376px){
+    
+    .jumbotron .buttons{
+        margin-bottom: 5px;
     }
 }
