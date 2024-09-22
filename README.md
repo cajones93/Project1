@@ -64,9 +64,10 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 
 ## Bugs
-List of bugs and how did you fix them
+
 Images not showing in services section.
 - Was missing "assets/" from the file path.
+
 
 ## Deployment
 
@@ -88,6 +89,12 @@ List of used resources for your website (text, images, snippets of code, project
   - Media
   
     Hero-image: Photo by Karolina Kaboompics: https://www.pexels.com/photo/cloth-behind-window-in-darkness-5422603/
+
+    Seance image: Taken from Wikimedia commons: https://commons.wikimedia.org/wiki/File:Weird_or_What_seance.JPG
+
+    Ouijia board image: Photo by goodfriendo : https://www.flickr.com/photos/illuminated_photography/3151863727
+
+    Haunted house image: Photo by Monica: https://www.flickr.com/photos/scorpio58/3548967552
 
   - Acknowledgment
     - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)
