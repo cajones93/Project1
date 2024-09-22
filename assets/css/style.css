@@ -1,10 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
+
+
 body{
     background-color: #030406;
     color: #10151B;
 }
 
+/* Dividers */
+
+.short{
+    border: 0;
+    height: 3px;
+    background-color: #0E3449;
+    width: 75%;
+    text-align: center;
+}
 
 /* Containers */
 
@@ -37,6 +48,19 @@ body{
     color: #fafafa;
 }
 
+.testimonials-container{
+    margin-top: 10px;
+    height: 35%;
+    width: 100%;
+    text-align: center;
+
+    background-color: #9C072C;
+    display: flexbox;
+    justify-content: space-evenly;
+
+    color: #fafafa;
+}
+
 /* Text */
 
 .text-center{
@@ -54,6 +78,7 @@ body{
 .navbar .nav-link{
     color: #fafafa;
     font-family: "Oswald", sans-serif;
+    
 }
 
 .bg-dark{
@@ -62,7 +87,9 @@ body{
 
 .navbar a{
     transition: all 0.35s ease-in-out;
+    
 }
+
 
 /* Callout */
 
@@ -149,6 +176,33 @@ body{
    
 }
 
+/* Testimonials */
+
+.testimonial{
+
+    text-align: center;
+    width: 100%;
+}
+
+.testimonials-header{
+    clear:both;
+    display: block;
+    margin: 5px 0;
+}
+
+.testimonials-container-header{
+    margin: 5px 0;
+}
+
+.testimonials-image{
+    display: inline;
+    margin: 5px 0;
+    height: 100px;
+    width: 100px;
+    border-radius: 25%;
+   
+}
+
 /* Media Queries */
 @media (min-width: 1024px){
     
@@ -161,7 +215,7 @@ body{
         font-size: 200%;
     }
 
-    .services{
+    .services, .testimonials{
         font-size: 120%;
     }
 }
@@ -182,13 +236,7 @@ body{
     }
 }
 
- .short{
-    border: 0;
-    height: 3px;
-    background-color: #0E3449;
-    width: 75%;
-    text-align: center;
-}
+
 
 @media (max-width: 768px){
     
