@@ -96,5 +96,9 @@ List of used resources for your website (text, images, snippets of code, project
 
     Haunted house image: Photo by Monica: https://www.flickr.com/photos/scorpio58/3548967552
 
+    Sarah photo: Photo by Andrea Piacquadio: https://www.pexels.com/photo/woman-wearing-coat-762020/
+
+    Pete photo: Photo by Brett Sayles: https://www.pexels.com/photo/man-in-grey-crew-neck-t-shirt-1073097/
+
   - Acknowledgment
     - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)

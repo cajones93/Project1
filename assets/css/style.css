@@ -191,7 +191,7 @@ body{
 .services-image{
     margin: 5px 0;
     height: 100px;
-    width: 100px;
+    width: 150px;
     border-radius: 25%;
    
 }
@@ -219,12 +219,13 @@ body{
 }
 
 .testimonials-image{
-    display: inline;
+
     margin: 5px 0;
     height: 100px;
-    width: 100px;
+    width: 150px;
     border-radius: 25%;
-   
+    border: 2px solid rgba(0,0,0,0.2);
+    
 }
 
 .testimonials-quote{
@@ -237,7 +238,7 @@ body{
 .social-links{
     margin-top: 20px;
     text-align: right;
-
+    margin-right: 10px;
 }
 
 .social-links a{
