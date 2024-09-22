@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
-.body{
-    background-color: black;
+body{
+    background-color: #030406;
+    color: #10151B;
 }
 
 
@@ -32,6 +33,8 @@
 
     display: flexbox;
     justify-content: space-evenly;
+
+    color: #fafafa;
 }
 
 /* Text */
@@ -51,6 +54,14 @@
 .navbar .nav-link{
     color: #fafafa;
     font-family: "Oswald", sans-serif;
+}
+
+.bg-dark{
+    background-color: #030406 !important;
+}
+
+.navbar a{
+    transition: all 0.35s ease-in-out;
 }
 
 /* Callout */
@@ -82,9 +93,9 @@
 }
 
 .mark{
-    color: black;
+    color: #030406;
     border-radius: 5px;
-    background-color: #f19946;
+    background-color: #E6E8E6;
 }
 
 .jumbotron .buttons{
@@ -93,6 +104,33 @@
     font-weight: bold;
 }
 
+.btn-warning{
+    background-color: #9C072C;
+    border-color: #9C072C;
+    color: #fafafa;
+}
+
+.btn-warning:hover{
+    background-color: #EDEDED;
+    border-color: #EDEDED;
+    color: #030406; 
+}
+
+.btn-success{
+    background-color: #C8963E;
+    border-color: #C8963E;
+    color: #fafafa;
+}
+
+.buttons{
+    transition: all 0.35s ease-in-out;
+}
+
+.btn-success:hover{
+    background-color: #fafafa;
+    border-color: #fafafa;
+    color: #030406;
+}
 
 /* Services */
 .services{
