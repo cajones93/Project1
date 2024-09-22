@@ -47,7 +47,7 @@ body{
     display: flexbox;
     justify-content: space-evenly;
 
-    color: #fafafa;
+    color: #E6E8E6;
 }
 
 .testimonials-container{
@@ -62,7 +62,7 @@ body{
     display: flexbox;
     justify-content: space-evenly;
 
-    color: #fafafa;
+    color: #E6E8E6;
 }
 
 .footer-container{
@@ -80,15 +80,16 @@ body{
 /* Nav */
 
 #logo{
-    color: #fafafa;
+    color: #E6E8E6;
     font-weight: bold;
     font-family: "Oswald", sans-serif;
+    font-size: 150%;
 }
 
 .navbar .nav-link{
-    color: #fafafa;
+    color: #E6E8E6;
     font-family: "Oswald", sans-serif;
-    
+    font-size: 120%;
 }
 
 .bg-dark{
@@ -118,14 +119,14 @@ body{
 }
 
 .jumbotron-header{
-    color: #fafafa;
+    color: #E6E8E6;
     font-family: "Oswald", sans-serif;
     margin-bottom: 5px;
     letter-spacing: 1px;
 }
 
 .jumbotron-text{
-    color: #fafafa;
+    color: #E6E8E6;
     font-family: "Source Sans 3", sans-serif;
     font-weight: 400;
 }
@@ -145,19 +146,19 @@ body{
 .btn-warning{
     background-color: #9C072C;
     border-color: #9C072C;
-    color: #fafafa;
+    color: #E6E8E6;
 }
 
 .btn-warning:hover{
-    background-color: #EDEDED;
-    border-color: #EDEDED;
+    background-color: #E6E8E6;
+    border-color: #E6E8E6;
     color: #030406; 
 }
 
 .btn-success{
     background-color: #C8963E;
     border-color: #C8963E;
-    color: #fafafa;
+    color: #E6E8E6;
 }
 
 .buttons{
@@ -165,8 +166,8 @@ body{
 }
 
 .btn-success:hover{
-    background-color: #fafafa;
-    border-color: #fafafa;
+    background-color: #E6E8E6;
+    border-color: #E6E8E6;
     color: #030406;
 }
 
@@ -185,6 +186,7 @@ body{
 
     font-family: "Oswald", sans-serif;
 }
+
 
 .services-image{
     margin: 5px 0;
@@ -230,6 +232,25 @@ body{
     
 }
 
+/* Footer */
+
+.social-links{
+    margin-top: 20px;
+    text-align: right;
+
+}
+
+.social-links a{
+    font-size: 150%;
+    color: #E6E8E6;
+
+    transition: all 0.35s ease-in-out;
+}
+
+.social-links a:hover{
+    color: #C8963E;
+}
+
 
 /* Media Queries */
 @media (min-width: 1024px){
@@ -266,10 +287,10 @@ body{
 
 
 
-@media (max-width: 768px){
+@media (max-width: 767px){
     
     .callout-container{
-        height: 20em;
+        height: 25em;
     }
 
     .services-container{
@@ -291,4 +312,14 @@ body{
     }
 
 
+}
+
+@media (max-width: 376px){
+    .jumbotron{
+        width: 90%;
+    }
+
+    .jumbotron .buttons{
+        margin-bottom: 5px;
+    }
 }
