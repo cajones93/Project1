@@ -12,14 +12,26 @@
     width: 100%;
     position: relative;
 
-    background-image: url("../images/hero-image2.jpg");
+    background-image: url("../images/hero-image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    overflow: hidden;
+
 
     display: flex;
     justify-content: center;
     align-items: center;
+
+}
+
+.services-container{
+    margin-top: 10px;
+    height: 35%;
+    width: 100%;
+
+    display: flexbox;
+    justify-content: space-evenly;
 }
 
 /* Text */
@@ -30,14 +42,15 @@
 
 /* Nav */
 
-
-
 #logo{
     color: #fafafa;
+    font-weight: bold;
+    font-family: "Oswald", sans-serif;
 }
 
 .navbar .nav-link{
     color: #fafafa;
+    font-family: "Oswald", sans-serif;
 }
 
 /* Callout */
@@ -80,6 +93,18 @@
     font-weight: bold;
 }
 
+
+/* Services */
+
+.services-image{
+    display: block;
+    clear: both;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+/* Media Queries */
 @media (min-width: 1024px){
     
     
