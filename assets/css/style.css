@@ -133,9 +133,7 @@ body{
 }
 
 /* Services */
-.services{
 
-}
 
 .services-header{
     clear:both;
@@ -162,6 +160,10 @@ body{
     .jumbotron-header{
         font-size: 200%;
     }
+
+    .services{
+        font-size: 120%;
+    }
 }
 
 @media (min-width: 768px){
@@ -174,12 +176,31 @@ body{
     .jumbotron .buttons{
         font-size: 120%;
     }
+
+    .services{
+        max-width: 60%;
+    }
 }
 
+ .short{
+    border: 0;
+    height: 3px;
+    background-color: #0E3449;
+    width: 75%;
+    text-align: center;
+}
 
-@media (max-width: 376px){
+@media (max-width: 768px){
     
-    .jumbotron .buttons{
-        margin-bottom: 5px;
+    .services{
+        max-width: 60%;
+        align-items: center;
+        margin: 0 auto;
     }
+
+    .services-image{
+        margin-top: 5px;
+    }
+
+
 }
