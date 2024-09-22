@@ -65,6 +65,8 @@ paste here you user story | what is visible to the user and what action they sho
 
 ## Bugs
 List of bugs and how did you fix them
+Images not showing in services section.
+- Was missing "assets/" from the file path.
 
 ## Deployment
 
