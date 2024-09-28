@@ -79,6 +79,11 @@ body{
 
 /* Nav */
 
+#logo-img{
+    height: 50px;
+    width: 200px;
+}
+
 #logo{
     color: #E6E8E6;
     font-weight: bold;
