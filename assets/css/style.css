@@ -373,6 +373,7 @@ body{
 
 @media (max-width: 767px){
     
+
     .callout-container{
         height: 25em;
     }
@@ -390,7 +391,7 @@ body{
     }
 
     .services{
-        max-width: 60%;
+        max-width: 90%;
         align-items: center;
         margin: 0 auto;
     }
@@ -408,7 +409,7 @@ body{
 
 @media (max-width: 426px){
     .detailed-services-container{
-        height: 130em;
+        height: 115em;
     }
 }
 
@@ -422,13 +423,13 @@ body{
     }
 
     .detailed-services-container{
-        height: 135em;
+        height: 125em;
     }
 }
 
 @media (max-width: 374px){
 
     .detailed-services-container{
-        height: 150em;
+        height: 130em;
     }
 }
