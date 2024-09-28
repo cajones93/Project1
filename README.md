@@ -22,6 +22,25 @@
 
 ### User Stories
 Write your user stories in this section
+
+#### User 
+As a user, I want to be able to:
+
+- browse available paranormal experiences so that I can see the different options available.
+- view detailed information about the paranormal experiences so that I can clearly understand what is included in each service.
+- submit a contact form so that I can reach out to the organiser for more information or to book an experience.
+- view basic pricing information so that I know how much each experience costs.
+- get directions to the haunted house locations where paranormal experiences take place, so I know how to get there.
+- read an FAQ section to quickly find answers to common questions.
+- view social media links so that I can follow or share the page with others.
+
+#### Site Owner
+As the site owner, I want to be able to:
+- display all the necessary information clearly so that users can easily understand what services are offered and how to contact me.
+- provide a simple contact form so that potential customers can reach out for bookings or inquiries.
+- embed social media links to increase visibility and encourage users to share the page with their networks.
+- ensure the page looks good on mobile devices so that users have a smooth browsing experience.
+
 ### Wireframes
 Attach wireframes in this section
 ### Typography
