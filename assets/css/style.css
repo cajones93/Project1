@@ -50,6 +50,20 @@ body{
     color: #E6E8E6;
 }
 
+.detailed-services-container{
+    margin-top: 10px;
+    height: 70em;
+    width: 100%;
+
+    font-family: "Source Sans 3", sans-serif;
+
+    display: flexbox;
+    justify-content: center;
+    
+
+    color: #E6E8E6;
+}
+
 .testimonials-container{
     margin-top: 10px;
     height: 25em;
@@ -69,6 +83,23 @@ body{
     height: 5em;
     width: 100%;
     background-color: #030406;
+}
+
+.about-header-container{
+    height: 15em;
+    width: 100%;
+    position: relative;
+
+    background-image: url("../images/about-hero-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Text */
@@ -257,6 +288,30 @@ body{
     color: #C8963E;
 }
 
+
+/* About Page */
+
+.about-jumbotron{
+    
+    background-color: rgba(256,256,256,0.2);
+    height: 70%;
+    width: 60%;
+
+    position: absolute;
+    text-align: center !important;
+
+    display: flexbox;
+    justify-content: center;
+    align-content: center;
+}
+
+.badge-danger{
+    background-color: #C8963E;
+}
+
+.services-house{
+    justify-content: center;
+}
 
 /* Media Queries */
 @media (min-width: 1024px){

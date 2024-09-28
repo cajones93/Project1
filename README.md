@@ -1,6 +1,8 @@
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)
     * [User Stories](#user-stories)
+      * [User](#user)
+      * [Site Owner](#site-owner)
     * [Wireframes](#wireframes)
     * [Typography](#typography)
     * [Colour Scheme](#colour-scheme)
