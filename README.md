@@ -89,6 +89,8 @@ paste here you user story | what is visible to the user and what action they sho
 Images not showing in services section.
 - Was missing "assets/" from the file path.
 
+FAQ 3, 4, 5 buttons expand/collapse all 3 together
+- ID was set to "collapseThree" for all 3 buttons. Changing IDs fixed the problem. 
 
 ## Deployment
 
