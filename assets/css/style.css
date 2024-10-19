@@ -405,7 +405,7 @@ body{
     margin: 0 5px; 
     font-family: "Source Sans 3", sans-serif;
     font-weight: bold;
-    font-size:140%;
+    font-size:120%;
     padding: 10px;
 }
 
@@ -421,6 +421,8 @@ body{
         width: 60%;
         height: 45em;
     }
+
+    
 }
 
 @media (min-width: 1024px){
@@ -449,6 +451,15 @@ body{
     .contact-form .contact-check{
         display:flex;
         justify-content:space-evenly;
+    }
+
+    .contact-form{
+        width: 80%;
+        height: 20em;
+    }
+    
+    .contact-container{
+        height: 23em;
     }
 }
 
@@ -535,6 +546,15 @@ body{
     .detailed-services-container{
         height: 115em;
     }
+
+    .contact-form{
+        width: 95%;
+        height: 33em;
+    }
+    
+    .contact-container{
+        height: 35em;
+    }
 }
 
 @media (max-width: 376px){
@@ -549,11 +569,23 @@ body{
     .detailed-services-container{
         height: 125em;
     }
+
+
+
 }
 
 @media (max-width: 374px){
 
     .detailed-services-container{
         height: 130em;
+    }
+
+    .contact-form{
+        width: 95%;
+        height: 33em;
+    }
+    
+    .contact-container{
+        height: 35em;
     }
 }
