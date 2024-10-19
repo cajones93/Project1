@@ -365,8 +365,17 @@ body{
 /* Contact */
 
 .contact-container{
+    
+    position: relative;
+
+    background-image: url("../images/contact-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    
     display: flex;
-    margin-top: 20px;
+    padding-top: 30px;
     height: 30em;
     width: 100%;
     text-align: left;
