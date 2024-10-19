@@ -362,6 +362,58 @@ body{
     color:#E6E8E6;
 }
 
+/* Contact */
+
+.contact-container{
+    display: flex;
+    margin-top: 20px;
+    height: 30em;
+    width: 100%;
+    text-align: left;
+    justify-content: center;
+
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 140%;
+
+    background-color: #030406;
+    color: #030406;
+}
+
+.contact-form{
+    width: 80%;
+    height: 25em;
+
+    background-color: rgba(230, 232, 230, 0.6);
+    border-radius: 20px;
+
+}
+
+.contact-form .form-group{
+    margin: 1rem;
+}
+
+.contact-form .form-check{
+    margin-right: 2rem;
+}
+
+.contact-form .form-submit{
+    width: 100%;
+    text-align: center;
+}
+
+.contact-form .buttons{
+    margin: 0 5px; 
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: bold;
+    font-size:140%;
+    padding: 10px;
+}
+
+
+
+
+
+
 /* Media Queries */
 
 @media (min-width: 1440px){
@@ -392,6 +444,11 @@ body{
     #houses-map{
         width: 60%;
         height: 25em;
+    }
+
+    .contact-form .contact-check{
+        display:flex;
+        justify-content:space-evenly;
     }
 }
 
