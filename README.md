@@ -111,7 +111,7 @@ List of used resources for your website (text, images, snippets of code, project
   
   - Media
   
-    Hero-image: Photo by Karolina Kaboompics: https://www.pexels.com/photo/cloth-behind-window-in-darkness-5422603/
+    Index Hero-image: Photo by Karolina Kaboompics: https://www.pexels.com/photo/cloth-behind-window-in-darkness-5422603/
 
     Seance image: Taken from Wikimedia commons: https://commons.wikimedia.org/wiki/File:Weird_or_What_seance.JPG
 
@@ -123,5 +123,9 @@ List of used resources for your website (text, images, snippets of code, project
 
     Pete photo: Photo by Brett Sayles: https://www.pexels.com/photo/man-in-grey-crew-neck-t-shirt-1073097/
 
+    About Hero-image: Photo by: Kaboompics.com: https://www.pexels.com/photo/white-sheet-thrown-over-an-illuminated-pumpkin-to-make-a-ghost-decoration-for-halloween-5422596/
+
+    Contact background image: Photo by Ekaterina Astakhova: https://www.pexels.com/photo/black-metal-framed-glass-window-4147563/
+    
   - Acknowledgment
     - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)
