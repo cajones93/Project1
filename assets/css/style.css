@@ -396,6 +396,13 @@ body{
     margin-right: 2rem;
 }
 
+.contact-label{
+    font-weight: bold;
+    color:#0E3449;
+    background-color:#E6E8E6;
+    border-radius:5px;
+}
+
 .contact-form .form-submit{
     width: 100%;
     text-align: center;
@@ -448,10 +455,6 @@ body{
         height: 25em;
     }
 
-    .contact-form .contact-check{
-        display:flex;
-        justify-content:space-evenly;
-    }
 
     .contact-form{
         width: 80%;
