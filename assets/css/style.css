@@ -364,6 +364,27 @@ body{
 
 /* Contact */
 
+.contact-header-container{
+    height: 15em;
+    width: 100%;
+    position: relative;
+    font-size: 140%;
+    font-weight: 400;
+    
+    background: rgba(0, 0, 0, .3)), url("../images/contact-header-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .contact-container{
     
     position: relative;
@@ -410,6 +431,7 @@ body{
     color:#0E3449;
     background-color:#E6E8E6;
     border-radius:5px;
+    margin-bottom: 5px;
 }
 
 .contact-form .form-submit{
