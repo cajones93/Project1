@@ -371,7 +371,7 @@ body{
     font-size: 140%;
     font-weight: 400;
     
-    background: rgba(0, 0, 0, .3)), url("../images/contact-header-bg.jpg");
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("../images/contact-header-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
