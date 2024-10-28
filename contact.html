@@ -24,7 +24,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a id="logo" class="navbar-brand" href="index.html"><img id="logo-img" src="assets/images/logo.png"></a>
+                <a id="logo" class="navbar-brand" href="index.html"><img id="logo-img" src="assets/images/logo.png" alt="Ghostly Encounters Logo"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
@@ -57,12 +57,13 @@
         
       </div>
 
-        </div>
     </header>
     <!-- Contact Form -->
     <section class="contact-container">
+
         <form action="contact-complete.html" target="_blank" method="get" class="contact-form" autocomplete="on">
-            <div class="form-group row ">
+          <h2 class="form-header">Personal Details</h2>  
+          <div class="form-group row ">
               <label for="name" class="col-sm-2 col-form-label contact-label">Name</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" id="name" placeholder="Name" required>
@@ -80,6 +81,7 @@
                 <input type="email" class="form-control" id="email" placeholder="Email address" required>
               </div>
             </div>
+            <h2 class="form-header">Select Service(s)</h2>  
             <div class="form-group row">
               <div class="col-sm-2 contact-label">Service(s)</div>
               <div class="col-sm-10 contact-check">
@@ -121,6 +123,7 @@
               </div>
             </div>
           </form>
+
     </section>
 
     <!-- Footer -->
