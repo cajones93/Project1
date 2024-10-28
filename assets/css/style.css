@@ -450,6 +450,22 @@ body{
     color:#E6E8E6;
 
     text-align: center;
+
+       
+    position: relative;
+
+    background-image: url("../images/contact-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    
+    padding-top: 30px;
+    height: 29em;
+    width: 100%;
+
+    justify-content: center;
+
 }
 
 .home-button{
@@ -528,6 +544,11 @@ body{
         width: 60%;
         height: 25em;
     }
+
+    .submitted-header{
+    height: 20em;
+    }
+
 }
 
 
@@ -597,6 +618,10 @@ body{
     .contact-container{
         height: 40em;
     }
+
+    .submitted-header{
+        height: 15em;
+    }
 }
 
 @media (max-width: 376px){
@@ -633,5 +658,9 @@ body{
 
     .testimonials-container{
         height: 48em;
+    }
+
+    .submitted-header{
+        height: 13em;
     }
 }
