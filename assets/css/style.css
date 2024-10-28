@@ -44,9 +44,6 @@ body{
 
     font-family: "Source Sans 3", sans-serif;
 
-    display: flex;
-    justify-content: space-evenly;
-
     color: #E6E8E6;
 }
 
@@ -56,10 +53,6 @@ body{
     width: 100%;
 
     font-family: "Source Sans 3", sans-serif;
-
-    display: flex;
-    justify-content: center;
-    
 
     color: #E6E8E6;
 }
@@ -73,9 +66,7 @@ body{
     font-family: "Source Sans 3", sans-serif;
 
     background-color: #9C072C;
-    display: flex;
-    justify-content: space-evenly;
-
+    
     color: #E6E8E6;
 }
 
@@ -148,10 +139,6 @@ body{
 
     position: absolute;
     text-align: center !important;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .jumbotron-header{
@@ -304,10 +291,6 @@ body{
 
     position: absolute;
     text-align: center !important;
-
-    display: flex;
-    justify-content: center;
-    align-content: center;
 }
 
 .badge-danger{
@@ -634,5 +617,9 @@ body{
     
     .contact-container{
         height: 35em;
+    }
+
+    .testimonials-container{
+        height: 48em;
     }
 }
