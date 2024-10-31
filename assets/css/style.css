@@ -111,6 +111,8 @@ body{
     font-weight: bold;
     font-family: "Oswald", sans-serif;
     font-size: 150%;
+    height: 50px;
+    width: 200px;
 }
 
 .navbar .nav-link{
