@@ -44,14 +44,19 @@ As the site owner, I want to be able to:
 ### Wireframes
 Wireframes were created in Balsamiq.
 
+#### Desktop
+![Desktop Wireframe](assets/images/readme/desktop-wireframe.png)
+
+#### Mobile
+![Mobile Wireframe](assets/images/readme/mobile-wireframe.png)
 
 ### Typography
 I searched for a suitable font pairing on [fontpair.co](https://www.fontpair.co/pairings/oswald-source-sans-pro). I liked the look of this font as I think they fit with the spooky theme for the website. Source Sans Pro was unavailable on Google Fonts so I went with Source Sans 3 which is very similar.
 
 ### Colour Scheme
-This is the colour scheme I used for this project.
+This is the colour scheme I used for this project. It was generated at [coolors.co](https://coolors.co/e6e8e6-9c072c-0e3449-c8963e-030406).
 
-	![Colour Scheme](assets/images/readme/colourPalette.png)
+![Colour Scheme](assets/images/readme/colourPalette.png)
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
@@ -64,7 +69,7 @@ A user can navigate to the contact page by clicking the "Make an enquiry" button
 After submitting the contact form, a user can return to the homepage by clicking the "Return to home" button.
 
 ### Footer
-The footer on every page contains links to social media sites Facebook, Youtube, Instagram, and WhatsApp.
+The footer on every page contains links to social media sites Facebook, Youtube, Instagram, and WhatsApp. The icons change colour when the user mouses over them to give some feedback.
 
 ### Home Page
 The home page shows a large callout section which grabs the users attention. It allows a user to click the "Learn More" or "Make an enquiry" buttons to go to the "About" and "Contact" pages.
