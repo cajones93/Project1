@@ -23,7 +23,6 @@
 ## Design & Planning:
 
 ### User Stories
-Write your user stories in this section
 
 #### User 
 As a user, I want to be able to:
@@ -50,7 +49,9 @@ Wireframes were created in Balsamiq.
 I searched for a suitable font pairing on [fontpair.co](https://www.fontpair.co/pairings/oswald-source-sans-pro). I liked the look of this font as I think they fit with the spooky theme for the website. Source Sans Pro was unavailable on Google Fonts so I went with Source Sans 3 which is very similar.
 
 ### Colour Scheme
-Screenshoot of the colour scheme for your project
+This is the colour scheme I used for this project.
+
+	![Colour Scheme](assets/images/readme/colourPalette.png)
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
