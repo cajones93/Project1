@@ -171,7 +171,7 @@ body{
 
 .btn-warning{
     background-color: #9C072C;
-    border-color: #9C072C;
+    border-color: #E6E8E6;
     color: #E6E8E6;
 }
 
@@ -183,7 +183,7 @@ body{
 
 .btn-success{
     background-color: #0E3449;
-    border-color: #0E3449;
+    border-color: #E6E8E6;
     color: #E6E8E6;
 }
 
@@ -638,6 +638,9 @@ body{
         height: 125em;
     }
 
+    .testimonials-container{
+        height: 47em;
+    }
 
 
 }
@@ -658,7 +661,7 @@ body{
     }
 
     .testimonials-container{
-        height: 48em;
+        height: 50em;
     }
 
     .submitted-header{
