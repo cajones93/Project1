@@ -31,7 +31,6 @@ As a user, I want to be able to:
 - browse available paranormal experiences so that I can see the different options available.
 - view detailed information about the paranormal experiences so that I can clearly understand what is included in each service.
 - submit a contact form so that I can reach out to the organiser for more information or to book an experience.
-- view basic pricing information so that I know how much each experience costs.
 - get directions to the haunted house locations where paranormal experiences take place, so I know how to get there.
 - read an FAQ section to quickly find answers to common questions.
 - view social media links so that I can follow or share the page with others.
@@ -44,7 +43,9 @@ As the site owner, I want to be able to:
 - ensure the page looks good on mobile devices so that users have a smooth browsing experience.
 
 ### Wireframes
-Attach wireframes in this section
+Wireframes were created in Balsamiq.
+
+
 ### Typography
 I searched for a suitable font pairing on [fontpair.co](https://www.fontpair.co/pairings/oswald-source-sans-pro). I liked the look of this font as I think they fit with the spooky theme for the website. Source Sans Pro was unavailable on Google Fonts so I went with Source Sans 3 which is very similar.
 
@@ -53,14 +54,41 @@ Screenshoot of the colour scheme for your project
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
+
 ### Navigation
 The website consists of three sections (Home, About, Contact) with navigation elements that link to each.
 When viewed on a mobile device, the navigation elements are condensed into a collapsed list.
+A user can navigate to the about page by clicking the "learn more" button on the homepage.
+A user can navigate to the contact page by clicking the "Make an enquiry" button on the homepage.
+After submitting the contact form, a user can return to the homepage by clicking the "Return to home" button.
 
 ### Footer
-The footer contains links to social media sites Facebook, Youtube, Instagram, and WhatsApp.
+The footer on every page contains links to social media sites Facebook, Youtube, Instagram, and WhatsApp.
+
+### Home Page
+The home page shows a large callout section which grabs the users attention. It allows a user to click the "Learn More" or "Make an enquiry" buttons to go to the "About" and "Contact" pages.
+When a user scrolls down, they can see some brief information about the services offered and some testimonials from previous customers.
+
+### About Page
+The about page gives detailed information about each of the services allowing the user to find out more about each service and what can be expected.
+
+### Contact Page
+The contact page consists of a contact form which allows a user to enter their personal details, choose one or more of the services, and ask questions to the company. Once a user submits the form, they are taken to a page to confirm that the form has been submitted.
+
+### Contact-complete Page
+This page confirms the submission of the contact form. It contains a brief "thank you" message and lets the user know that the company will contact them soon. This page ensures that the user is receiving feedback on the form submission. It then gives the user a link back to the homepage with the "back to home" button conveniently located.
+
+### Map
+A user can view the haunted locations offered by the company on the about page.
+
+### FAQ (Frequently Asked Questions)
+The FAQ contains frequently asked questions that users may be wondering about. This allows a user to view questions and get quick answers. The FAQ is in an accordion style which keeps it condensed.
+
+### Contact Form
+A user can submit a contact form to learn more about or book one of the services offered.
 
 ### Other features
+
 ## Technologies Used
 List of technologies used for your project...
 HTML
