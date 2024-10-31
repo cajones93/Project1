@@ -180,8 +180,8 @@ body{
 }
 
 .btn-success{
-    background-color: #C8963E;
-    border-color: #C8963E;
+    background-color: #0E3449;
+    border-color: #0E3449;
     color: #E6E8E6;
 }
 
@@ -221,7 +221,6 @@ body{
     height: 100px;
     width: 150px;
     border-radius: 25%;
-   
 }
 
 /* Testimonials */
