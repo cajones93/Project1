@@ -307,6 +307,12 @@ body{
     height: 20em;
 }
 
+.card-body a{
+    color:#0E3449;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /* FAQ */
 
 .faq-container{
