@@ -114,10 +114,47 @@ Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
-User Story |  Test | Pass
---- | --- | :---:
-paste here you user story | what is visible to the user and what action they should perform | &check;
-- and attach screenshot
+
+Testing for links, FAQ, and form
+Test | Pass
+--- | :---:
+All navigation links lead to the correct pages  | &check;
+Callout buttons lead to the correct pages  | &check;
+Footer links open a new tab and lead to the correct sites  | &check;
+FAQ accordion functions correctly  | &check;
+Contact form doens't submit without entering information  | &check;
+Contact form submits when required information is present  | &check;
+Back to Home button takes user back to homepage | &check;
+
+User story testing
+Number | User Story |  Test | Pass
+--- | --- | --- | :---:
+1 | A user wants to browse available paranormal experiences so that I can see the different options available. | The user scrolls down to see the services offered | &check;
+2 | A user wants to view detailed information about the paranormal experiences so that I can clearly understand what is included in each service. | The user clicks the learn more button or the about navigation link. They then scroll down to view the detailed information. | &check;  
+3 | A user wants to submit a contact form so that I can reach out to the organiser for more information or to book an experience. | The user clicks the make an enquiry button or the contact navigation link and fills out the contact form. | &check;
+4 | A user wants to get directions to the haunted house locations where paranormal experiences take place. | The user clicks the learn more button or the learn more navigation link and scrolls down to the haunted house section. The user can see an interactive map and can click the directions arrow. | &check;
+5 | A user wants to read an FAQ section to quickly find answers to common questions. | The user clicks the learn more button or the about navigation link and scrolls down to the FAQ section. | &check;
+6 | A user wants to view social media links so that they can follow or share the page with others. | The user scrolls to the bottom of any page and clicks the social media icon. | &check;
+
+### User stories testing screenshots
+1. Browse available paranormal experiences
+![Services](assets/images/readme/services.png)
+
+2. View detailed information about experiences offered.
+![Services](assets/images/readme/detailedservices.png)
+
+3. Submit a contact form.
+![Contact Form](assets/images/readme/contact1.png)
+![Contact Form Submitted](assets/images/readme/contact2.png)
+
+4. Get directions to to the haunted houses.
+![Haunted House Directions](assets/images/readme/map-directions.png)
+
+5. Read an FAQ section.
+![FAQ](assets/images/readme/faq.png)
+
+6. View social media links.
+![Contact Form](assets/images/readme/social-links.png)
 
 ## Bugs
 
@@ -126,6 +163,9 @@ Images not showing in services section.
 
 FAQ 3, 4, 5 buttons expand/collapse all 3 together
 - ID was set to "collapseThree" for all 3 buttons. Changing IDs fixed the problem. 
+
+Removing bootstrap script stopped FAQ accordion functioning.
+- Adding bootstrap script resumed functionality.
 
 ## Deployment
 
