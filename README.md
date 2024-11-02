@@ -63,7 +63,7 @@ This is the colour scheme I used for this project. It was generated at [coolors.
 ### Navigation
 The website consists of three sections (Home, About, Contact) with navigation elements that link to each.
 When viewed on a mobile device, the navigation elements are condensed into a collapsed list.
-A user can navigate to the about page by clicking the "learn more" button on the homepage.
+A user can navigate to the about page by clicking the "our services" button on the homepage.
 A user can navigate to the contact page by clicking the "Make an enquiry" button on the homepage.
 After submitting the contact form, a user can return to the homepage by clicking the "Return to home" button.
 
@@ -77,7 +77,7 @@ The footer on every page contains links to social media sites Facebook, Youtube,
 ![Footer](assets/images/readme/footer.png)
 
 ### Home Page
-The home page shows a large callout section which grabs the users attention. It allows a user to click the "Learn More" or "Make an enquiry" buttons to go to the "About" and "Contact" pages.
+The home page shows a large callout section which grabs the users attention. It allows a user to click the "Our Services" or "Make an enquiry" buttons to go to the "About" and "Contact" pages.
 When a user scrolls down, they can see some brief information about the services offered and some testimonials from previous customers.
 
 ![Home Page](assets/images/readme/homepage.png)
@@ -147,10 +147,10 @@ User story testing
 Number | User Story |  Test | Pass
 --- | --- | --- | :---:
 1 | A user wants to browse available paranormal experiences so that I can see the different options available. | The user scrolls down to see the services offered | &check;
-2 | A user wants to view detailed information about the paranormal experiences so that I can clearly understand what is included in each service. | The user clicks the learn more button or the about navigation link. They then scroll down to view the detailed information. | &check;  
+2 | A user wants to view detailed information about the paranormal experiences so that I can clearly understand what is included in each service. | The user clicks the Our Services button or the about navigation link. They then scroll down to view the detailed information. | &check;  
 3 | A user wants to submit a contact form so that I can reach out to the organiser for more information or to book an experience. | The user clicks the make an enquiry button or the contact navigation link and fills out the contact form. | &check;
-4 | A user wants to get directions to the haunted house locations where paranormal experiences take place. | The user clicks the learn more button or the learn more navigation link and scrolls down to the haunted house section. The user can see an interactive map and can click the directions arrow. | &check;
-5 | A user wants to read an FAQ section to quickly find answers to common questions. | The user clicks the learn more button or the about navigation link and scrolls down to the FAQ section. | &check;
+4 | A user wants to get directions to the haunted house locations where paranormal experiences take place. | The user clicks the Our Services button or the Our Services navigation link and scrolls down to the haunted house section. The user can see an interactive map and can click the directions arrow. | &check;
+5 | A user wants to read an FAQ section to quickly find answers to common questions. | The user clicks the Our Services button or the about navigation link and scrolls down to the FAQ section. | &check;
 6 | A user wants to view social media links so that they can follow or share the page with others. | The user scrolls to the bottom of any page and clicks the social media icon. | &check;
 
 ### User stories testing screenshots
@@ -198,7 +198,7 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 3. Select 'Pages' from the menu bar on the left of the page.
 4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
 5. Once selected, click the 'Save'.
-6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
+6. Deployment should be confirmed by a message saying "Your site is published at" followed by the web address.
 
 ## Credits
 List of used resources for your website (text, images, snippets of code, projects....)
