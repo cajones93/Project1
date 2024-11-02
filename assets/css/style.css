@@ -623,6 +623,10 @@ body{
     .submitted-header{
         height: 15em;
     }
+
+    .contact-form .contact-label{
+        text-align: center;
+    }
 }
 
 @media (max-width: 376px){
