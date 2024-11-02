@@ -56,7 +56,7 @@ I searched for a suitable font pairing on [fontpair.co](https://www.fontpair.co/
 ### Colour Scheme
 This is the colour scheme I used for this project. It was generated at [coolors.co](https://coolors.co/e6e8e6-9c072c-0e3449-c8963e-030406).
 
-![Colour Scheme](assets/images/readme/colourPalette.png)
+![Colour Scheme](assets/images/readme/colour-scheme.png)
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
@@ -101,6 +101,7 @@ HTML
 CSS
 Bootstrap
 Github
+
 ## Testing
 Important part of your README!!!
 ### Google's Lighthouse Performance
