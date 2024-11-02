@@ -59,7 +59,6 @@ This is the colour scheme I used for this project. It was generated at [coolors.
 ![Colour Scheme](assets/images/readme/colour-scheme.png)
 
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms.....)
 
 ### Navigation
 The website consists of three sections (Home, About, Contact) with navigation elements that link to each.
@@ -132,7 +131,6 @@ Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
 Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories or/and features
-Test all your user stories, you an create table 
 
 Testing for links, FAQ, and form
 Test | Pass
@@ -184,7 +182,7 @@ FAQ 3, 4, 5 buttons expand/collapse all 3 together
 - ID was set to "collapseThree" for all 3 buttons. Changing IDs fixed the problem. 
 
 Removing bootstrap script stopped FAQ accordion functioning.
-- Adding bootstrap script resumed functionality.
+- Re-adding bootstrap scripts resumed functionality.
 
 ## Deployment
 
@@ -193,11 +191,14 @@ Removing bootstrap script stopped FAQ accordion functioning.
 - Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
 - Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
 #### Deloying on Github
-The site was deployed to Github Pages using the following method:
-- Go to the Github repository.
-- Navigate to the 'settings' tab.
-- Using the 'select branch' dropdown menu, choose 'main'.
-- Click 'save'.
+The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
+
+1. Go to the repository on GitHub.com
+2. Select 'Settings' near the top of the page.
+3. Select 'Pages' from the menu bar on the left of the page.
+4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
+5. Once selected, click the 'Save'.
+6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
 ## Credits
 List of used resources for your website (text, images, snippets of code, projects....)
