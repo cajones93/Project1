@@ -123,13 +123,62 @@ Github
 ## Testing
 Important part of your README!!!
 ### Google's Lighthouse Performance
-Screenshots of certain pages and scores (mobile and desktop)
+This section contains screenshots of the Home, About, and Contact pages lighthouse scores.
+Each page has a mobile and desktop score. 
+I was unable to reduce the load delays in the performance section for each page on the mobile versions, it seems that bootstrap is causing long load delays on mobile. 
+
+#### Home
+#####  Mobile
+![Home Mobile](assets/images/readme/lighthouse-home-mob.png)
+
+##### Desktop
+![Home Desktop](assets/images/readme/lighthouse-home-desk.png)
+
+#### About
+##### Mobile
+![About Mobile](assets/images/readme/lighthouse-about-mob.png)
+
+##### Desktop
+![About Desktop](assets/images/readme/lighthouse-about-desk.png)
+
+I was unable to find any information to fix this error which I believe to be related to the google map I embedded into the page.
+![Lighthouse Best Practices Error](assets/images/readme/bestpractices-error.png)
+
+#### Contact
+##### Mobile
+![Contact Mobile](assets/images/readme/lighthouse-contact-mob.png)
+
+##### Desktop
+![Contact Desktop](assets/images/readme/lighthouse-contact-desk.png)
+
 ### Browser Compatibility
 Check compatability with different browsers
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
 Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
+
+#### HTML Validation
+##### Home
+![Home HTML](assets/images/readme/home-html-valid.png)
+Result: No Errors.
+
+##### About
+![About HTML](assets/images/readme/about-html-valid.png)
+Result: No Errors.
+
+##### Contact
+![Contact HTML](assets/images/readme/contact-html-valid.png)
+Result: No Errors.
+
+##### Contact-Complete
+![Contact Complete HTML](assets/images/readme/contact-complete-html-valid.png)
+Result: No Errors.
+
+#### CSS Validation
+![CSS Validation](assets/images/readme/css-valid.png)
+Result: No Errors.
+
 ### Manual Testing user stories or/and features
 
 Testing for links, FAQ, and form
