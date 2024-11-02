@@ -68,35 +68,54 @@ A user can navigate to the about page by clicking the "learn more" button on the
 A user can navigate to the contact page by clicking the "Make an enquiry" button on the homepage.
 After submitting the contact form, a user can return to the homepage by clicking the "Return to home" button.
 
+![Navbar Desktop](assets/images/readme/nav-desktop.png)
+
+![Navbar Mobile](assets/images/readme/nav-mobile.png)
+
 ### Footer
 The footer on every page contains links to social media sites Facebook, Youtube, Instagram, and WhatsApp. The icons change colour when the user mouses over them to give some feedback.
+
+![Footer](assets/images/readme/footer.png)
 
 ### Home Page
 The home page shows a large callout section which grabs the users attention. It allows a user to click the "Learn More" or "Make an enquiry" buttons to go to the "About" and "Contact" pages.
 When a user scrolls down, they can see some brief information about the services offered and some testimonials from previous customers.
 
+![Home Page](assets/images/readme/homepage.png)
+
 ### About Page
 The about page gives detailed information about each of the services allowing the user to find out more about each service and what can be expected.
+
+![About Page](assets/images/readme/about-page.png)
 
 ### Contact Page
 The contact page consists of a contact form which allows a user to enter their personal details, choose one or more of the services, and ask questions to the company. Once a user submits the form, they are taken to a page to confirm that the form has been submitted.
 
+![Contact Page](assets/images/readme/contact-page.png)
+
 ### Contact-complete Page
 This page confirms the submission of the contact form. It contains a brief "thank you" message and lets the user know that the company will contact them soon. This page ensures that the user is receiving feedback on the form submission. It then gives the user a link back to the homepage with the "back to home" button conveniently located.
+
+![Contact Submitted Page](assets/images/readme/contact-submitted-page.png)
 
 ### Map
 A user can view the haunted locations offered by the company on the about page.
 
+![Map](assets/images/readme/about-map.png)
+
 ### FAQ (Frequently Asked Questions)
 The FAQ contains frequently asked questions that users may be wondering about. This allows a user to view questions and get quick answers. The FAQ is in an accordion style which keeps it condensed.
+
+![FAQ](assets/images/readme/faq.png)
 
 ### Contact Form
 A user can submit a contact form to learn more about or book one of the services offered.
 
+![Contact Form](assets/images/readme/contact-form.png)
+
 ### Other features
 
 ## Technologies Used
-List of technologies used for your project...
 HTML
 CSS
 Bootstrap
