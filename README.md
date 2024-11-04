@@ -268,6 +268,10 @@ Result: No Errors.
 ![Contact Complete HTML](assets/images/readme/testing/html/contact-complete-html-valid.png)
 Result: No Errors.
 
+##### 404 Page
+![404 HTML](assets/images/readme/testing/html/404-html-valid.png)
+Result: No Errors.
+
 #### CSS Validation
 ![CSS Validation](assets/images/readme/testing/css/css-valid.png)
 
