@@ -148,6 +148,7 @@ I created a simple 404 page with a button to redirect users back to the homepage
 * Github - for hosting and deploying the website
 * BrowserStack - for testing the website compatibility with different browsers
 * Responsinator - to view website on different devices
+* Imageresizer - to resize images easily
 
 ## Testing
 ### Google's Lighthouse Performance
