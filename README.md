@@ -130,10 +130,14 @@ A user can submit a contact form to learn more about or book one of the services
 ![Contact Form](assets/images/readme/contact-form.png)
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
-Github
+* HTML - used for structuring the website
+* CSS - for style and layout
+* Bootstrap - for style and layout
+* Font Awesome - for icons
+* Google Fonts - for the fonts
+* Google Maps - for embedding an iFrame with the map on the about page
+* Github - for hosting and deploying the website
+* BrowserStack - for testing the website compatibility with different browsers.
 
 ## Testing
 ### Google's Lighthouse Performance
@@ -142,27 +146,26 @@ Each page has a mobile and desktop score.
 
 #### Home
 #####  Mobile
-![Home Mobile](assets/images/readme/lighthouse-home-mob.png)
+![Home Mobile](assets/images/readme/testing/lighthouse-home-mob.png)
 
 ##### Desktop
-![Home Desktop](assets/images/readme/lighthouse-home-desk.png)
+![Home Desktop](assets/images/readme/testing/lighthouse-home-desk.png)
 
 #### About
 ##### Mobile
-![About Mobile](assets/images/readme/lighthouse-about-mob.png)
+![About Mobile](assets/images/readme/testing/lighthouse-about-mob.png)
 
 ##### Desktop
-![About Desktop](assets/images/readme/lighthouse-about-desk.png)
+![About Desktop](assets/images/readme/testing/lighthouse-about-desk.png)
 
-I was unable to find any information to fix this error which I believe to be related to the google map I embedded into the page.
-![Lighthouse Best Practices Error](assets/images/readme/bestpractices-error.png)
+The about page 'Best Practices' section is showing a depreciated API error relating to the embedded google map.
 
 #### Contact
 ##### Mobile
-![Contact Mobile](assets/images/readme/lighthouse-contact-mob.png)
+![Contact Mobile](assets/images/readme/testing/lighthouse-contact-mob.png)
 
 ##### Desktop
-![Contact Desktop](assets/images/readme/lighthouse-contact-desk.png)
+![Contact Desktop](assets/images/readme/testing/lighthouse-contact-desk.png)
 
 ### Browser Compatibility
 Check compatability with different browsers
