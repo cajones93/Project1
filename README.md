@@ -365,7 +365,9 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 ## Credits
 ### Code & Text Content
   
-  Using a linear gradient to make a background image darker without affecting the text - Arthur Serafim on stackoverflow: https://stackoverflow.com/questions/15765550/darkening-an-image-with-css-in-any-shape
+  > Using a linear gradient to make a background image darker without affecting the text - Arthur Serafim on stackoverflow: https://stackoverflow.com/questions/15765550/darkening-an-image-with-css-in-any-shape
+
+  > Adding async to scripts to improve load times - Suggested by mentor Antonio Rodriguez.
 
 ### Media
   
