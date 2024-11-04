@@ -36,9 +36,7 @@
 7. [Credits](#credits)
 
 ## Design & Planning:
-
 ### User Stories
-
 #### User 
 As a user, I want to be able to:
 
@@ -60,10 +58,10 @@ As the site owner, I want to be able to:
 Wireframes were created in Balsamiq.
 
 #### Desktop
-![Desktop Wireframe](assets/images/readme/desktop-wireframe.png)
+![Desktop Wireframe](assets/images/readme/wireframes/desktop-wireframe.png)
 
 #### Mobile
-![Mobile Wireframe](assets/images/readme/mobile-wireframe.png)
+![Mobile Wireframe](assets/images/readme/wireframes/mob-wireframe.png)
 
 ### Typography
 I searched for a suitable font pairing on [fontpair.co](https://www.fontpair.co/pairings/oswald-source-sans-pro). I liked the look of this font as I think they fit with the spooky theme for the website. Source Sans Pro was unavailable on Google Fonts so I went with Source Sans 3 which is very similar.
@@ -83,51 +81,51 @@ A user can navigate to the contact page by clicking the "Make an enquiry" button
 After submitting the contact form, a user can return to the homepage by clicking the "Return to home" button.
 
 #### Desktop Navbar
-![Navbar Desktop](assets/images/readme/nav-desktop.png)
+![Navbar Desktop](assets/images/readme/features/nav-desktop.png)
 
 #### Mobile Navbar
-![Navbar Mobile](assets/images/readme/nav-mobile.png)
+![Navbar Mobile](assets/images/readme/features/nav-mobile.png)
 
 ### Footer
 The footer on every page contains links to social media sites Facebook, Youtube, Instagram, and WhatsApp. The icons change colour when the user mouses over them to give some feedback.
 
-![Footer](assets/images/readme/footer.png)
+![Footer](assets/images/readme/features/footer.png)
 
 ### Home Page
 The home page shows a large callout section which grabs the users attention. It allows a user to click the "Our Services" or "Make an enquiry" buttons to go to the "About" and "Contact" pages.
 When a user scrolls down, they can see some brief information about the services offered and some testimonials from previous customers.
 
-![Home Page](assets/images/readme/homepage.png)
+![Home Page](assets/images/readme/features/homepage.png)
 
 ### About Page
 The about page gives detailed information about each of the services allowing the user to find out more about each service and what can be expected.
 
-![About Page](assets/images/readme/about-page.png)
+![About Page](assets/images/readme/features/about-page.png)
 
 ### Contact Page
 The contact page consists of a contact form which allows a user to enter their personal details, choose one or more of the services, and ask questions to the company. Once a user submits the form, they are taken to a page to confirm that the form has been submitted.
 
-![Contact Page](assets/images/readme/contact-page.png)
+![Contact Page](assets/images/readme/features/contact-page.png)
 
 ### Contact-complete Page
 This page confirms the submission of the contact form. It contains a brief "thank you" message and lets the user know that the company will contact them soon. This page ensures that the user is receiving feedback on the form submission. It then gives the user a link back to the homepage with the "back to home" button conveniently located.
 
-![Contact Submitted Page](assets/images/readme/contact-submitted-page.png)
+![Contact Submitted Page](assets/images/readme/features/contact-complete-page.png)
 
 ### Map
 A user can view the haunted locations offered by the company on the about page.
 
-![Map](assets/images/readme/about-map.png)
+![Map](assets/images/readme/features/about-map.png)
 
 ### FAQ (Frequently Asked Questions)
 The FAQ contains frequently asked questions that users may be wondering about. This allows a user to view questions and get quick answers. The FAQ is in an accordion style which keeps it condensed.
 
-![FAQ](assets/images/readme/faq.png)
+![FAQ](assets/images/readme/features/faq.png)
 
 ### Contact Form
 A user can submit a contact form to learn more about or book one of the services offered.
 
-![Contact Form](assets/images/readme/contact-form.png)
+![Contact Form](assets/images/readme/features/contact-form.png)
 
 ## Technologies Used
 * HTML - used for structuring the website
@@ -137,7 +135,8 @@ A user can submit a contact form to learn more about or book one of the services
 * Google Fonts - for the fonts
 * Google Maps - for embedding an iFrame with the map on the about page
 * Github - for hosting and deploying the website
-* BrowserStack - for testing the website compatibility with different browsers.
+* BrowserStack - for testing the website compatibility with different browsers
+* Responsinator - to view website on different devices
 
 ## Testing
 ### Google's Lighthouse Performance
@@ -146,90 +145,91 @@ Each page has a mobile and desktop score.
 
 #### Home
 #####  Mobile
-![Home Mobile](assets/images/readme/testing/lighthouse-home-mob.png)
+![Home Mobile](assets/images/readme/testing/lighthouse/lighthouse-home-mob.png)
 
 ##### Desktop
-![Home Desktop](assets/images/readme/testing/lighthouse-home-desk.png)
+![Home Desktop](assets/images/readme/testing/lighthouse/lighthouse-home-desk.png)
 
 #### About
 ##### Mobile
-![About Mobile](assets/images/readme/testing/lighthouse-about-mob.png)
+![About Mobile](assets/images/readme/testing/lighthouse/lighthouse-about-mob.png)
 
 ##### Desktop
-![About Desktop](assets/images/readme/testing/lighthouse-about-desk.png)
+![About Desktop](assets/images/readme/testing/lighthouse/lighthouse-about-desk.png)
 
 The about page 'Best Practices' section is showing a depreciated API error relating to the embedded google map.
 
 #### Contact
 ##### Mobile
-![Contact Mobile](assets/images/readme/testing/lighthouse-contact-mob.png)
+![Contact Mobile](assets/images/readme/testing/lighthouse/lighthouse-contact-mob.png)
 
 ##### Desktop
-![Contact Desktop](assets/images/readme/testing/lighthouse-contact-desk.png)
+![Contact Desktop](assets/images/readme/testing/lighthouse/lighthouse-contact-desk.png)
 
 ### Browser Compatibility
 Check compatability with different browsers
 #### Chrome
 ##### Desktop
-![Chrome Test Desktop](assets/images/readme/testing/chrome-desk-test.png)
+![Chrome Test Desktop](assets/images/readme/testing/browser/chrome-desk-test.png)
 
 Result: No issues
 
 ##### Mobile
-![Chrome Test Mobile](assets/images/readme/testing/chrome-mob-test.png)
+![Chrome Test Mobile](assets/images/readme/testing/browser/chrome-mob-test.png)
 
 Result: No issues
 
 #### Firefox
 ##### Desktop
-![Firefox Test Desktop](assets/images/readme/testing/firefox-test.png)
+![Firefox Test Desktop](assets/images/readme/testing/browser/firefox-test.png)
 
 Result: No issues
 
 ##### Mobile
-![Firefox Test Desktop](assets/images/readme/testing/firefox-mob-test.png)
+![Firefox Test Desktop](assets/images/readme/testing/browser/firefox-mob-test.png)
 
 Result: No issues
 
 #### Safari
 ##### Desktop
-![Safari Test Desktop](assets/images/readme/testing/safari-test.png)
+![Safari Test Desktop](assets/images/readme/testing/browser/safari-test.png)
 
 Result: No issues
 
 ##### Mobile
-![Safari Test Mobile](assets/images/readme/testing/safari-mob-test.png)
+![Safari Test Mobile](assets/images/readme/testing/browser/safari-mob-test.png)
 
 Result: The map on the about page overhangs onto the FAQ section. 
 (Resolved) - No issues.
 
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
-### Code Validation
-Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 
+
+
+### Code Validation
 #### HTML Validation
 ##### Home
-![Home HTML](assets/images/readme/home-html-valid.png)
+![Home HTML](assets/images/readme/testing/html/home-html-valid.png)
 
 Result: No Errors.
 
 ##### About
-![About HTML](assets/images/readme/about-html-valid.png)
+![About HTML](assets/images/readme/testing/html/about-html-valid.png)
 
 Result: No Errors.
 
 ##### Contact
-![Contact HTML](assets/images/readme/contact-html-valid.png)
+![Contact HTML](assets/images/readme/testing/html/contact-html-valid.png)
 
 Result: No Errors.
 
 ##### Contact-Complete
-![Contact Complete HTML](assets/images/readme/contact-complete-html-valid.png)
+![Contact Complete HTML](assets/images/readme/testing/html/contact-complete-html-valid.png)
 Result: No Errors.
 
 #### CSS Validation
-![CSS Validation](assets/images/readme/css-valid.png)
+![CSS Validation](assets/images/readme/testing/css/css-valid.png)
 
 Result: No Errors.
 
@@ -259,28 +259,28 @@ Number | User Story |  Test | Pass
 ##### User stories testing screenshots
 1. Browse available paranormal experiences
 
-![Services](assets/images/readme/services.png)
+![Services](assets/images/readme/user-stories/services.png)
 
 2. View detailed information about experiences offered.
 
-![Services](assets/images/readme/detailedservices.png)
+![Services](assets/images/readme/user-stories/detailedservices.png)
 
 3. Submit a contact form.
 
-![Contact Form](assets/images/readme/contact1.png)
-![Contact Form Submitted](assets/images/readme/contact2.png)
+![Contact Form](assets/images/readme/user-stories/contact1.png)
+![Contact Form Submitted](assets/images/readme/user-stories/contact2.png)
 
 4. Get directions to to the haunted houses.
 
-![Haunted House Directions](assets/images/readme/map-directions.png)
+![Haunted House Directions](assets/images/readme/user-stories/map-directions.png)
 
 5. Read an FAQ section.
 
-![FAQ](assets/images/readme/faq.png)
+![FAQ](assets/images/readme/features/faq.png)
 
 6. View social media links.
 
-![Social Links](assets/images/readme/social-links.png)
+![Social Links](assets/images/readme/user-stories/social-links.png)
 
 ## Bugs
 
