@@ -235,7 +235,7 @@ Result: No Errors.
 
 ### Manual Testing user stories or/and features
 
-Testing for links, FAQ, and form
+#### Testing for links, FAQ, and form
 Test | Pass
 --- | :---:
 All navigation links lead to the correct pages  | &check;
@@ -246,7 +246,7 @@ Contact form doens't submit without entering information  | &check;
 Contact form submits when required information is present  | &check;
 Back to Home button takes user back to homepage | &check;
 
-User story testing
+#### User Story Testing
 Number | User Story |  Test | Pass
 --- | --- | --- | :---:
 1 | A user wants to browse available paranormal experiences so that I can see the different options available. | The user scrolls down to see the services offered | &check;
@@ -256,25 +256,31 @@ Number | User Story |  Test | Pass
 5 | A user wants to read an FAQ section to quickly find answers to common questions. | The user clicks the Our Services button or the about navigation link and scrolls down to the FAQ section. | &check;
 6 | A user wants to view social media links so that they can follow or share the page with others. | The user scrolls to the bottom of any page and clicks the social media icon. | &check;
 
-### User stories testing screenshots
+##### User stories testing screenshots
 1. Browse available paranormal experiences
+
 ![Services](assets/images/readme/services.png)
 
 2. View detailed information about experiences offered.
+
 ![Services](assets/images/readme/detailedservices.png)
 
 3. Submit a contact form.
+
 ![Contact Form](assets/images/readme/contact1.png)
 ![Contact Form Submitted](assets/images/readme/contact2.png)
 
 4. Get directions to to the haunted houses.
+
 ![Haunted House Directions](assets/images/readme/map-directions.png)
 
 5. Read an FAQ section.
+
 ![FAQ](assets/images/readme/faq.png)
 
 6. View social media links.
-![Contact Form](assets/images/readme/social-links.png)
+
+![Social Links](assets/images/readme/social-links.png)
 
 ## Bugs
 
