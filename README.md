@@ -50,9 +50,9 @@ As a user, I want to be able to:
 #### Site Owner
 As the site owner, I want to be able to:
 - display all the necessary information clearly so that users can easily understand what services are offered and how to contact me.
-- provide a simple contact form so that potential customers can reach out for bookings or inquiries.
+- provide a simple contact form so that potential customers can reach out for bookings or enquiries.
 - embed social media links to increase visibility and encourage users to share the page with their networks.
-- ensure the page looks good on mobile devices so that users have a smooth browsing experience.
+- ensure the page looks good on different devices so that users have a smooth browsing experience.
 
 ### Wireframes
 Wireframes were created in Balsamiq.
