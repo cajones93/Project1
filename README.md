@@ -171,6 +171,13 @@ The about page 'Best Practices' section is showing a depreciated API error relat
 ##### Desktop
 ![Contact Desktop](assets/images/readme/testing/lighthouse/lighthouse-contact-desk.png)
 
+#### Contact Complete
+##### Mobile
+![Contact Complete Mobile](assets/images/readme/testing/lighthouse/lighthouse-contact-complete-desk.png)
+
+##### Desktop
+![Contact Complete Desktop](assets/images/readme/testing/lighthouse/lighthouse-contact-complete-desk.png)
+
 ### Browser Compatibility
 #### Chrome
 ##### Desktop
