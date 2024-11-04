@@ -17,6 +17,7 @@
     * [Map](#map)
     * [FAQ](#faq-frequently-asked-questions)
     * [Contact form](#contact-form)
+    * [Custom 404 Page](#custom-404-page)
     * [Features left to implement](#features-left-to-implement)
 
 3. [Technologies Used](#technologies-used)
@@ -127,6 +128,11 @@ The FAQ contains frequently asked questions that users may be wondering about. T
 A user can submit a contact form to learn more about or book one of the services offered.
 
 ![Contact Form](assets/images/readme/features/contact-form.png)
+
+### Custom 404 Page
+I created a simple 404 page with a button to redirect users back to the homepage easily.
+
+![404 Page](assets/images/readme/features/404-page.png)
 
 ### Features left to implement
 * I wanted to put the services into cards to make them look more appealing and self-contained but I didn't have time to implement this at the end.
