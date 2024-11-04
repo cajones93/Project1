@@ -17,6 +17,7 @@
     * [Map](#map)
     * [FAQ](#faq-frequently-asked-questions)
     * [Contact form](#contact-form)
+    * [Features left to implement](#features-left-to-implement)
 
 3. [Technologies Used](#technologies-used)
 
@@ -126,6 +127,10 @@ The FAQ contains frequently asked questions that users may be wondering about. T
 A user can submit a contact form to learn more about or book one of the services offered.
 
 ![Contact Form](assets/images/readme/features/contact-form.png)
+
+### Features left to implement
+* I wanted to put the services into cards to make them look more appealing and self-contained but I didn't have time to implement this at the end.
+* I couldn't find a way to prevent the contact form submitting without selecting a service without using JavaScript so that was not implemented.
 
 ## Technologies Used
 * HTML - used for structuring the website
@@ -319,6 +324,9 @@ FAQ 3, 4, 5 buttons expand/collapse all 3 together
 
 Removing bootstrap script stopped FAQ accordion functioning.
 - Re-adding bootstrap scripts resumed functionality.
+
+Contact form can be submitted without selecting a service.
+- I could not find a way to prevent this without using JavaScript so it was not implemented. As a work-around, the 'other' checkbox starts off selected.
 
 ## Deployment
 #### Creating Repository on GitHub
