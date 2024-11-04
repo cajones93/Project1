@@ -416,7 +416,7 @@ body{
     padding: 10px;
 }
 
-.submitted-header{
+.submitted-header, .error-header{
     clear:both;
     display: block;
     margin: 5px 0;
