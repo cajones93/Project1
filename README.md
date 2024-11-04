@@ -6,18 +6,33 @@
     * [Wireframes](#wireframes)
     * [Typography](#typography)
     * [Colour Scheme](#colour-scheme)
-
     
 2. [Features](#features)
     * [Navigation](#Navigation)
     * [Footer](#Footer)
     * [Home page](#Home-page)
-    * [Other features](#Other-features)
+    * [About page](#about-page)
+    * [Contact page](#contact-page)
+    * [Contact complete page](#contact-complete-page)
+    * [Map](#map)
+    * [FAQ](#faq-frequently-asked-questions)
+    * [Contact form](#contact-form)
 
 3. [Technologies Used](#technologies-used)
+
 4. [Testing](#testing)
+  * [Googles lighthouse performance](#googles-lighthouse-performance)
+  * [Browser compatibility](#browser-compatibility)
+  * [Responsiveness](#responsiveness)
+  * [Code Validation](#code-validation)
+    * [HTML](#html-validation)
+    * [CSS](#css-validation)
+  * [Manual testing](#manual-testing-user-stories-orand-features)
+
 5. [Bugs](#bugs)
+
 6. [Deployment](#deployment)
+
 7. [Credits](#credits)
 
 ## Design & Planning:
@@ -67,8 +82,10 @@ A user can navigate to the about page by clicking the "our services" button on t
 A user can navigate to the contact page by clicking the "Make an enquiry" button on the homepage.
 After submitting the contact form, a user can return to the homepage by clicking the "Return to home" button.
 
+#### Desktop Navbar
 ![Navbar Desktop](assets/images/readme/nav-desktop.png)
 
+#### Mobile Navbar
 ![Navbar Mobile](assets/images/readme/nav-mobile.png)
 
 ### Footer
@@ -112,8 +129,6 @@ A user can submit a contact form to learn more about or book one of the services
 
 ![Contact Form](assets/images/readme/contact-form.png)
 
-### Other features
-
 ## Technologies Used
 HTML
 CSS
@@ -121,11 +136,9 @@ Bootstrap
 Github
 
 ## Testing
-Important part of your README!!!
 ### Google's Lighthouse Performance
 This section contains screenshots of the Home, About, and Contact pages lighthouse scores.
 Each page has a mobile and desktop score. 
-I was unable to reduce the load delays in the performance section for each page on the mobile versions, it seems that bootstrap is causing long load delays on mobile. 
 
 #### Home
 #####  Mobile
@@ -195,14 +208,17 @@ Validate your code HTML, CSS (all pages/files need to be validated!!!), display 
 #### HTML Validation
 ##### Home
 ![Home HTML](assets/images/readme/home-html-valid.png)
+
 Result: No Errors.
 
 ##### About
 ![About HTML](assets/images/readme/about-html-valid.png)
+
 Result: No Errors.
 
 ##### Contact
 ![Contact HTML](assets/images/readme/contact-html-valid.png)
+
 Result: No Errors.
 
 ##### Contact-Complete
@@ -211,6 +227,7 @@ Result: No Errors.
 
 #### CSS Validation
 ![CSS Validation](assets/images/readme/css-valid.png)
+
 Result: No Errors.
 
 ### Manual Testing user stories or/and features
