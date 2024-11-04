@@ -205,7 +205,36 @@ Result: The map on the about page overhangs onto the FAQ section.
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 
+#### Home Page
+##### Mobile
+![Home iPhone](assets/images/readme/testing/responsiveness/mob-home.png)
 
+##### iPad
+![Home iPad](assets/images/readme/testing/responsiveness/home-ipad.png)
+
+##### Desktop
+![Home Desktop](assets/images/readme/testing/responsiveness/desktop-home.png)
+
+
+#### About Page
+##### Mobile
+![Home Services](assets/images/readme/testing/responsiveness/about-mob.png)
+
+##### iPad
+![Home Services](assets/images/readme/testing/responsiveness/about-ipad.png)
+
+##### Desktop
+![Home Services](assets/images/readme/testing/responsiveness/desktop-services.png)
+
+#### Contact Form
+##### Mobile
+![Contact Mobile](assets/images/readme/testing/responsiveness/mob-contact-form.png)
+
+##### iPad
+![Contact iPad](assets/images/readme/testing/responsiveness/ipad-contact-form.png)
+
+##### Desktop
+![Contact Desktop](assets/images/readme/testing/responsiveness/desktop-contact.png)
 
 ### Code Validation
 #### HTML Validation
@@ -234,7 +263,6 @@ Result: No Errors.
 Result: No Errors.
 
 ### Manual Testing user stories or/and features
-
 #### Testing for links, FAQ, and form
 Test | Pass
 --- | :---:
