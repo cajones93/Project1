@@ -294,6 +294,7 @@ FAQ accordion functions correctly  | &check;
 Contact form doens't submit without entering information  | &check;
 Contact form submits when required information is present  | &check;
 Back to Home button takes user back to homepage | &check;
+Entering an invalid URL takes you to the custom 404 page | &check;
 
 #### User Story Testing
 Number | User Story |  Test | Pass
