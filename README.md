@@ -67,7 +67,7 @@ Wireframes were created in Balsamiq.
 I searched for a suitable font pairing on [fontpair.co](https://www.fontpair.co/pairings/oswald-source-sans-pro). I liked the look of this font as I think they fit with the spooky theme for the website. Source Sans Pro was unavailable on Google Fonts so I went with Source Sans 3 which is very similar.
 
 ### Colour Scheme
-This is the colour scheme I used for this project. It was generated at [coolors.co](https://coolors.co/e6e8e6-9c072c-0e3449-c8963e-030406).
+This is the colour scheme I used for this project. It was generated at [coolors.co](https://coolors.co/e6e8e6-9c072c-0e3449-c8963e-030406). I chose darker colours to keep to the spooky theme of the site with a brighter white for contrast.
 
 ![Colour Scheme](assets/images/readme/colour-scheme.png)
 
@@ -167,7 +167,6 @@ The about page 'Best Practices' section is showing a depreciated API error relat
 ![Contact Desktop](assets/images/readme/testing/lighthouse/lighthouse-contact-desk.png)
 
 ### Browser Compatibility
-Check compatability with different browsers
 #### Chrome
 ##### Desktop
 ![Chrome Test Desktop](assets/images/readme/testing/browser/chrome-desk-test.png)
@@ -285,28 +284,28 @@ Number | User Story |  Test | Pass
 6 | A user wants to view social media links so that they can follow or share the page with others. | The user scrolls to the bottom of any page and clicks the social media icon. | &check;
 
 ##### User stories testing screenshots
-1. Browse available paranormal experiences
+###### 1. Browse available paranormal experiences
 
 ![Services](assets/images/readme/user-stories/services.png)
 
-2. View detailed information about experiences offered.
+###### 2. View detailed information about experiences offered.
 
 ![Services](assets/images/readme/user-stories/detailedservices.png)
 
-3. Submit a contact form.
+###### 3. Submit a contact form.
 
 ![Contact Form](assets/images/readme/user-stories/contact1.png)
 ![Contact Form Submitted](assets/images/readme/user-stories/contact2.png)
 
-4. Get directions to to the haunted houses.
+###### 4. Get directions to to the haunted houses.
 
 ![Haunted House Directions](assets/images/readme/user-stories/map-directions.png)
 
-5. Read an FAQ section.
+###### 5. Read an FAQ section.
 
 ![FAQ](assets/images/readme/features/faq.png)
 
-6. View social media links.
+###### 6. View social media links.
 
 ![Social Links](assets/images/readme/user-stories/social-links.png)
 
@@ -322,29 +321,27 @@ Removing bootstrap script stopped FAQ accordion functioning.
 - Re-adding bootstrap scripts resumed functionality.
 
 ## Deployment
-
 #### Creating Repository on GitHub
 - First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
 - Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
 - Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
+
 #### Deloying on Github
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
 
-1. Go to the repository on GitHub.com
-2. Select 'Settings' near the top of the page.
-3. Select 'Pages' from the menu bar on the left of the page.
-4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
-5. Once selected, click the 'Save'.
+1. Go to the repository on [Github](https://github.com/)
+2. Select **Settings** near the top of the page.
+3. Select **Pages** from the menu bar on the left of the page.
+4. Under **Source** select the 'Branch' dropdown menu and select the main branch.
+5. Once selected, click the **Save**.
 6. Deployment should be confirmed by a message saying "Your site is published at" followed by the web address.
 
 ## Credits
-List of used resources for your website (text, images, snippets of code, projects....)
-  - Code & Text Content
+### Code & Text Content
   
   Using a linear gradient to make a background image darker without affecting the text - Arthur Serafim on stackoverflow: https://stackoverflow.com/questions/15765550/darkening-an-image-with-css-in-any-shape
 
-
-  - Media
+### Media
   
     Index Hero-image: Photo by Karolina Kaboompics: https://www.pexels.com/photo/cloth-behind-window-in-darkness-5422603/
 
@@ -364,5 +361,6 @@ List of used resources for your website (text, images, snippets of code, project
 
     Contact background image: Photo by Ekaterina Astakhova: https://www.pexels.com/photo/black-metal-framed-glass-window-4147563/
     
-  - Acknowledgment
-    - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)
+### Acknowledgment
+#### Antonio Rodriguez
+> My mentor who provided me with constructive feedback and advice.
