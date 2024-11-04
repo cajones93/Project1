@@ -203,7 +203,7 @@ Result: The map on the about page overhangs onto the FAQ section.
 (Resolved) - No issues.
 
 ### Responsiveness
-Screenshots of the responsivness, pick few devices (from 320px top 1200px)
+This section shows the website responsiveness on a mobile device, iPad, and desktop. You can see how the site adapts to the different screen sizes through these screenshots.
 
 #### Home Page
 ##### Mobile
