@@ -635,6 +635,14 @@ body{
     }
 }
 
+/* iPhone */
+@media (max-width: 405px){
+
+    .detailed-services-container{
+        height: 130em;
+    }
+}
+
 @media (max-width: 376px){
     .jumbotron{
         width: 90%;
