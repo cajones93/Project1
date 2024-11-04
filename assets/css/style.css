@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
-
-
 body{
     background-color: #030406;
-    color: #10151B;
 }
 
 /* Dividers */
@@ -18,7 +15,6 @@ body{
 }
 
 /* Containers */
-
 .callout-container{
     height: 30em;
     width: 100%;
@@ -29,7 +25,6 @@ body{
     background-size: cover;
     background-position: center;
     overflow: hidden;
-
 
     display: flex;
     justify-content: center;
@@ -43,7 +38,6 @@ body{
     width: 100%;
 
     font-family: "Source Sans 3", sans-serif;
-
     color: #E6E8E6;
 }
 
@@ -53,7 +47,6 @@ body{
     width: 100%;
 
     font-family: "Source Sans 3", sans-serif;
-
     color: #E6E8E6;
 }
 
@@ -66,7 +59,6 @@ body{
     font-family: "Source Sans 3", sans-serif;
 
     background-color: #9C072C;
-    
     color: #E6E8E6;
 }
 
@@ -87,7 +79,6 @@ body{
     background-position: center;
     overflow: hidden;
 
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,7 +91,6 @@ body{
 }
 
 /* Nav */
-
 #logo-img{
     height: 50px;
     width: 200px;
@@ -127,14 +117,10 @@ body{
 
 .navbar a{
     transition: all 0.35s ease-in-out;
-    
 }
 
-
 /* Callout */
-
 .jumbotron{
-    
     background-color: rgba(256,256,256,0.2);
     height: 70%;
     width: 80%;
@@ -198,7 +184,6 @@ body{
 }
 
 /* Services */
-
 .services-container-header{
     font-family: "Oswald", sans-serif;
     margin: 5px 0;
@@ -217,7 +202,6 @@ body{
     text-align: left;
 }
 
-
 .services-image{
     margin: 5px 0;
     height: 100px;
@@ -226,9 +210,7 @@ body{
 }
 
 /* Testimonials */
-
 .testimonial{
-
     text-align: center;
     width: 100%;
 }
@@ -248,22 +230,18 @@ body{
 }
 
 .testimonials-image{
-
     margin: 5px 0;
     height: 100px;
     width: 150px;
     border-radius: 25%;
     border: 2px solid rgba(0,0,0,0.2);
-    
 }
 
 .testimonials-quote{
     text-align: center;
-    
 }
 
 /* Footer */
-
 .social-links{
     margin-top: 20px;
     text-align: right;
@@ -281,9 +259,7 @@ body{
     color: #C8963E;
 }
 
-
 /* About Page */
-
 .about-jumbotron{
     
     background-color: rgba(256,256,256,0.2);
@@ -327,7 +303,6 @@ body{
     color: #E6E8E6;
 }
 
-
 .faq-container-header{
     margin: 10px 0;
     font-family: "Oswald", sans-serif;
@@ -353,7 +328,6 @@ body{
 }
 
 /* Contact */
-
 .contact-header-container{
     height: 15em;
     width: 100%;
@@ -370,12 +344,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
-
 .contact-container{
-    
     position: relative;
 
     background-image: url("../images/contact-background.jpg");
@@ -414,9 +385,7 @@ body{
 
     background-color: rgba(230, 232, 230, 0.6);
     border-radius: 20px;
-
 }
-
 
 .contact-form .form-group{
     margin: 1rem;
@@ -455,9 +424,7 @@ body{
     font-family: "Oswald", sans-serif;
     font-size: 200%;
     color:#E6E8E6;
-
     text-align: center;
-
        
     position: relative;
 
@@ -472,7 +439,6 @@ body{
     width: 100%;
 
     justify-content: center;
-
 }
 
 .home-button{
@@ -481,19 +447,17 @@ body{
     margin: 10px;
 }
 
-
-
 /* Media Queries */
 
+/* Desktop */
 @media (min-width: 1440px){
     #houses-map{
         width: 60%;
         height: 45em;
     }
-
-    
 }
 
+/* Desktop */
 @media (min-width: 1024px){
     
     #FAQ .card{
@@ -516,7 +480,6 @@ body{
         width: 60%;
         height: 25em;
     }
-
 
     .contact-form{
         width: 80%;
@@ -556,11 +519,9 @@ body{
     .submitted-header{
     height: 20em;
     }
-
 }
 
-
-
+/* Tablet / iPad */
 @media (max-width: 767px){
     
     .faq-container{
@@ -613,6 +574,7 @@ body{
 
 }
 
+/* Mobile */
 @media (max-width: 426px){
     .detailed-services-container{
         height: 115em;
@@ -644,6 +606,7 @@ body{
     }
 }
 
+/* Mobile */
 @media (max-width: 376px){
     .jumbotron{
         width: 90%;
@@ -660,10 +623,9 @@ body{
     .testimonials-container{
         height: 47em;
     }
-
-
 }
 
+/* Small Mobile */
 @media (max-width: 374px){
 
     .detailed-services-container{
