@@ -156,29 +156,36 @@ Check compatability with different browsers
 #### Chrome
 ##### Desktop
 ![Chrome Test Desktop](assets/images/readme/testing/chrome-desk-test.png)
+
 Result: No issues
 
 ##### Mobile
 ![Chrome Test Mobile](assets/images/readme/testing/chrome-mob-test.png)
+
 Result: No issues
 
 #### Firefox
 ##### Desktop
 ![Firefox Test Desktop](assets/images/readme/testing/firefox-test.png)
+
 Result: No issues
 
 ##### Mobile
 ![Firefox Test Desktop](assets/images/readme/testing/firefox-mob-test.png)
+
 Result: No issues
 
 #### Safari
 ##### Desktop
 ![Safari Test Desktop](assets/images/readme/testing/safari-test.png)
+
 Result: No issues
 
 ##### Mobile
 ![Safari Test Mobile](assets/images/readme/testing/safari-mob-test.png)
-Result: The map on the about page overhangs onto the FAQ section.
+
+Result: The map on the about page overhangs onto the FAQ section. 
+(Resolved) - No issues.
 
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
