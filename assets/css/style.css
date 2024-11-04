@@ -520,7 +520,7 @@ body{
 
     .contact-form{
         width: 80%;
-        height: 25em;
+        height: 26em;
     }
     
     .contact-container{
@@ -541,6 +541,7 @@ body{
     
     .jumbotron .buttons{
         font-size: 120%;
+        margin-bottom: 2px;
     }
 
     .services{
