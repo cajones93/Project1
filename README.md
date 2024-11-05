@@ -1,5 +1,10 @@
+# Ghostly Encounters
+Link to the live site: [Ghostly Encounters](https://cajones93.github.io/ghostlyencounters/index.html)
+
 ## Table Of Contents:
-1. [Design & Planning](#design-&-planning)
+1. [Justification](#justification)
+
+2. [Design & Planning](#design-&-planning)
     * [User Stories](#user-stories)
       * [User](#user)
       * [Site Owner](#site-owner)
@@ -7,7 +12,7 @@
     * [Typography](#typography)
     * [Colour Scheme](#colour-scheme)
     
-2. [Features](#features)
+3. [Features](#features)
     * [Navigation](#Navigation)
     * [Footer](#Footer)
     * [Home page](#Home-page)
@@ -20,9 +25,9 @@
     * [Custom 404 Page](#custom-404-page)
     * [Features left to implement](#features-left-to-implement)
 
-3. [Technologies Used](#technologies-used)
+4. [Technologies Used](#technologies-used)
 
-4. [Testing](#testing)
+5. [Testing](#testing)
   * [Googles lighthouse performance](#googles-lighthouse-performance)
   * [Browser compatibility](#browser-compatibility)
   * [Responsiveness](#responsiveness)
@@ -31,13 +36,21 @@
     * [CSS](#css-validation)
   * [Manual testing](#manual-testing-user-stories-orand-features)
 
-5. [Bugs](#bugs)
+6. [Bugs](#bugs)
 
-6. [Deployment](#deployment)
+7. [Deployment](#deployment)
 
-7. [Credits](#credits)
+8. [Credits](#credits)
+
+## Justification
+According to a recent [study](https://www.independent.co.uk/news/uk/ghost-aliens-paranormal-beliefs-b2256483.html), most Brits’ have paranormal beliefs with 52% saying they are spurred on by first-hand experience. It also states that 43% of all adults considering themselves believers in the spiritual side of life. These people may be interested in experiencing paranormal phenomenon in a controlled manner by booking one of the services offered by Ghostly Encounters.
+
+Ghostly Encounters offers seances, ouijia board sessions, and haunted house stayovers. These are three services that people may want to experience separately or all together in the same night. The company could also offer additional services in the future such as equipment rental, spirit box sessions, etc.
+
+The website features 3 pages: Home, About, and Contact. The Home page displays brief information about the services and some testimonials from satisfied customers. The About page shows more detailed information about each service, a map to the haunted locations, and an FAQ for common questions. The contact page contains a contact form for customers to ask questions or book one or more of the services offered.
 
 ## Design & Planning:
+
 ### User Stories
 #### User 
 As a user, I want to be able to:
@@ -370,6 +383,8 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 
   > Adding async to scripts to improve load times - Suggested by mentor Antonio Rodriguez.
 
+  > Information about number of people with paranormal experiences - https://www.independent.co.uk/news/uk/ghost-aliens-paranormal-beliefs-b2256483.html
+  
 ### Media
   
     Index Hero-image: Photo by Karolina Kaboompics: https://www.pexels.com/photo/cloth-behind-window-in-darkness-5422603/
